@@ -1,0 +1,17 @@
+body {
+    background-color: #202020;
+    color: #f9f9f9;
+}
+#banner {
+    width: 100%;   
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+#missao {
+    font-size: 20px;
+}
+
